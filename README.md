@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Smart Timetable Generator
 
 An intelligent scheduling system that automatically generates optimized,
@@ -94,3 +95,6 @@ CSE semesters + one ECE semester, ~18 subjects, 15 teachers, 7 rooms, a
 the in-app uploader/editor) with your institution's real data — the schema
 each file must follow is documented in `utils.py::SCHEMAS` and enforced by
 the validation step.
+=======
+# AI-time-table-Project
+>>>>>>> d84cba3301af041833339333a734c8238f5b4b77
