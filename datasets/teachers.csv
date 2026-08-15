@@ -1,0 +1,16 @@
+FacultyID,TeacherName,Department,MaxLecturesPerDay,PreferredTimeSlots
+F101,Dr. Anil Sharma,CSE,4,Morning
+F102,Dr. Neha Verma,CSE,4,Morning
+F103,Prof. Rakesh Gupta,CSE,3,Afternoon
+F104,Dr. Sonal Mehta,CSE,4,Any
+F105,Prof. Vikram Singh,CSE,3,Morning
+F106,Dr. Priya Nair,CSE,4,Any
+F107,Dr. Arjun Rao,CSE,4,Afternoon
+F108,Prof. Kavita Joshi,CSE,3,Morning
+F109,Dr. Manish Kumar,CSE,3,Any
+F110,Dr. Ritu Malhotra,CSE,3,Afternoon
+F111,Prof. Suresh Iyer,ECE,4,Morning
+F112,Dr. Deepa Krishnan,ECE,4,Any
+F113,Prof. Ajay Bansal,ECE,3,Afternoon
+F114,Dr. Lakshmi Menon,ECE,3,Morning
+F115,Dr. Rahul Chawla,ECE,3,Any

@@ -1,0 +1,19 @@
+SubjectID,SubjectName,WeeklyHours,FacultyID,Department,Semester
+SUB101,Data Structures,4,F101,CSE,3
+SUB102,Database Systems,4,F102,CSE,3
+SUB103,Operating Systems,3,F103,CSE,3
+SUB104,Computer Networks,3,F104,CSE,3
+SUB105,Discrete Mathematics,3,F105,CSE,3
+SUB106,DS Lab,2,F101,CSE,3
+SUB201,Software Engineering,4,F106,CSE,5
+SUB202,Machine Learning,4,F107,CSE,5
+SUB203,Web Technologies,3,F108,CSE,5
+SUB204,Compiler Design,3,F109,CSE,5
+SUB205,Cloud Computing,3,F110,CSE,5
+SUB206,ML Lab,2,F107,CSE,5
+SUB301,Digital Electronics,4,F111,ECE,3
+SUB302,Signals and Systems,4,F112,ECE,3
+SUB303,Microprocessors,3,F113,ECE,3
+SUB304,Electromagnetics,3,F114,ECE,3
+SUB305,Electronic Devices,3,F115,ECE,3
+SUB306,Electronics Lab,2,F111,ECE,3

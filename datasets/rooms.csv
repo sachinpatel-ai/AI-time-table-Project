@@ -1,0 +1,8 @@
+RoomNumber,Capacity,RoomType
+R101,70,Classroom
+R102,70,Classroom
+R103,60,Classroom
+R104,60,Classroom
+L201,70,Lab
+L202,70,Lab
+R105,80,Classroom
